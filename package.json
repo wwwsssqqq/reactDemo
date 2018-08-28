@@ -1,8 +1,15 @@
 {
-  "name": "tryagain",
+  "name": "travel",
   "version": "1.0.0",
-  "description": "",
+  "description": "天水市旅游系统",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:wwwsssqqq/reactDemo.git"
+  },
+  "keywords": [
+    "天水市旅游网站系统 react项目"
+  ],
   "scripts": {
     "build": "webpack --mode production --config blog/webpack.config.js",
     "dev": "webpack --mode development --config blog/webpack.config.js"
